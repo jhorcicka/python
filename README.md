@@ -1,3 +1,2 @@
 # python
-Testovaci pisecek pro Python:
-Dneska si zkusime praci s githubem. 
+Playing sandbox for Python-like efforts.
